@@ -1,7 +1,7 @@
 from math import fmod
 
-nums = [2,3,5]
-words = ["fizz", "buzz", "bazz"]
+nums = [2,3,5,7]
+words = ["fizz", "buzz", "bazz","sezz"]
 
 def fizzbuzz_plusplus(nums, words):
   # TODO: complete
